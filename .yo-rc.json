@@ -1,0 +1,16 @@
+{
+  "generator-mastersign-python": {
+    "library": true,
+    "projectName": "libemulio",
+    "rootPackage": "libemulio",
+    "mainModule": "core",
+    "description": "An Simple OS Simulation Library",
+    "homepage": "https://github.com/bnnk/libemulio",
+    "authorName": "bnnk",
+    "authorEmail": "bk.shrinandhan@gmail.com",
+    "githubUser": "bnnk",
+    "cli": false,
+    "year": 2022,
+    "date": "2022-04-18"
+  }
+}
